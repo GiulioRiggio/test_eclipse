@@ -4,6 +4,8 @@ public class CiaoGit {
 
 	public static void main(String[] args) {
 		System.out.println("test git eclipse");
+		
+		System.out.println("aggiunto qualcosa");
 	}
 
 }
